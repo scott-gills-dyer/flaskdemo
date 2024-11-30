@@ -23,6 +23,6 @@ body {
     }
 }
 
-.animated-content {
+.animated_fade {
     animation: fadeIn 2s ease-out;
 }
